@@ -1,3 +1,2 @@
-# Kingdom of Heroes (مملكة الأبطال)
+# Kingdom of Heroes
 An application dedicated to children's health and entertainment.
-
